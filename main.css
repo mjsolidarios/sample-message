@@ -1,0 +1,16 @@
+body{
+    padding: 3rem;
+}
+
+
+.box {
+    max-width: 500px;
+    margin: 0 auto
+}
+
+.box-top{
+    background-color: rgba(0,0,0,0.1);
+    height: 300px;
+    overflow-y: scroll; 
+    padding: 1em;
+}
